@@ -1,0 +1,1 @@
+根据django-tenant-schemas写的教程实例
